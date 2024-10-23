@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @goitsi101
 - 👀 I’m interested in new world that is innovative 
 - 🌱 I’m currently learning Computer Science 
+- 🚧I did ethical Hacking 
+- 🌐Full stack web developer 
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me email goitsimarobela@gmail.com / 0655496233
 
