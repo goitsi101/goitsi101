@@ -5,8 +5,10 @@ I am a Computer Science student at Tshwane University of Technology (TUT) with a
 
 -  Based in Pretoria, South Africa
 -  Studying: Diploma in Computer Science (TUT)
--  Current Focus: Upskilling in Cybersecurity Architecture & Incident Response
-- Hands-on: Building secure systems and analyzing traffic configurations
+-  Current Focus: Upskilling in Cybersecurity Architecture,System Archituecture & Incident Response
+-  Hands-on: Building secure systems and analyzing traffic configurations
+-  Hands on : System Design, System Architecure, Software Engineer
+  
 
 ---
 
