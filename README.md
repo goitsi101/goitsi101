@@ -1,6 +1,6 @@
 # Hi there, I'm Goitsimodimo! 
 
-###  Aspiring Cybersecurity Analyst & Computer Science Graduate
+###  Aspiring Cybersecurity Analyst ,Software Engineer ,System Design ,AI Engineer & Computer Science Graduate
 I am a Computer Science student at Tshwane University of Technology (TUT) with a strong foundation in Advanced Object-Oriented Programming, secure computing, and system architecture. I combine hands-on backend software engineering with security operations—leveraging my development skills to decode telemetry, analyze system logs, secure code pipelines, and understand enterprise network and IoT infrastructure and ERP System Design.
 
 - **Based in:** Pretoria, South Africa
